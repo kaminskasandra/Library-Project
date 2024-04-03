@@ -6,7 +6,6 @@ import com.kodillalibrary.domain.Book;
 import com.kodillalibrary.domain.BookStatus;
 import com.kodillalibrary.domain.BookTitle;
 import com.kodillalibrary.repository.BookRepository;
-import com.kodillalibrary.repository.BookTitleRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

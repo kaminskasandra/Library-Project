@@ -3,7 +3,6 @@ package com.kodillalibrary.Dto;
 import com.kodillalibrary.domain.BookStatus;
 import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.Getter;
 import lombok.NoArgsConstructor;
 
 import java.time.LocalDate;

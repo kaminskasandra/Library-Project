@@ -37,5 +37,4 @@ public class BookTitleService {
         return bookTitleRepository.findByTitle(bookTitle);
     }
 
-
 }
